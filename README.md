@@ -10,18 +10,18 @@
 
 3. Dimension (ndim): It returns the number of dimensions (axes) of the array.
 
-1D array → ndim = 1
-
-2D array → ndim = 2
-
-4. Shape
-
-It returns the number of elements in each dimension.
-
-For 1D → (number of elements,)
-
-For 2D → (rows, columns)
+4. Shape: It returns the number of elements in each dimension.
 
 5. Data Type (dtype): It shows the type of elements stored in the array (e.g., int32, float64).
-
 6. Size: It returns the total number of elements in the array.
+7. Zeros: Creates an array filled with zeros.
+8. Ones: Creates an array filled with ones.
+
+
+
+
+
+
+
+*Conclusion:*
+Thus, we successfully studied the NumPy library and performed various operations such as array creation, finding dimensions, shape, size, data type, and applying mathematical functions like mean, median, standard deviation, sum, maximum, minimum, transpose, and sorting. NumPy makes numerical computations faster and more efficient in Python.
