@@ -16,9 +16,7 @@
 6. Size: It returns the total number of elements in the array.
 7. Zeros: Creates an array filled with zeros.
 8. Ones: Creates an array filled with ones.
-9. Eye: Creates an identity matrix (diagonal elements are 1 and others are 0).
-
-Syntax: np.eye(n)
+9. Eye: Creates an identity matrix (diagonal elements are 1 and others are 0)  - Syntax: np.eye(n)
 
 10. Arange: Returns evenly spaced values within a given interval.
 
@@ -27,8 +25,7 @@ Syntax: np.eye(n)
 
 Example:
 
-a + 5
-b * 2
+a + 5, b * 2
 
 13. Mean (np.mean()): Returns the average of array elements.
 
