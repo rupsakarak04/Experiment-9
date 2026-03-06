@@ -4,6 +4,24 @@
 
 *THEORY*: 
 
+NumPy (Numerical Python) is a powerful open-source Python library used for numerical computations and scientific programming. It provides support for large multi-dimensional arrays and matrices along with a large collection of mathematical functions to perform operations on these arrays efficiently.
+
+NumPy is widely used in data science, machine learning, signal processing, and scientific research because it performs numerical operations faster than normal Python lists.
+
+The core object in NumPy is the ndarray (N-dimensional array), which is a table of elements of the same type indexed by a tuple of integers.
+
+NumPy allows users to:
+
+Create arrays easily
+
+Perform mathematical operations on arrays
+
+Generate special matrices
+
+Work with multidimensional data structures
+
+Perform statistical and linear algebra operations
+
 1. NumPy: NumPy (Numerical Python) is a Python library used for numerical computations. It provides support for large, multi-dimensional arrays and matrices along with mathematical functions to operate on them efficiently.
 
 2. Array: An array is a collection of elements of the same data type stored in contiguous memory locations.
@@ -44,4 +62,4 @@ a + 5, b * 2
 20. Sort (np.sort()): Returns a sorted copy of the array.
 
 *Conclusion:*
-Thus, we successfully studied the NumPy library and performed various operations such as array creation, finding dimensions, shape, size, data type, and applying mathematical functions like mean, median, standard deviation, sum, maximum, minimum, transpose, and sorting. NumPy makes numerical computations faster and more efficient in Python.
+From this experiment, we understood the basic concepts of NumPy arrays and important functions used in numerical computing. NumPy provides efficient tools for handling large datasets and performing mathematical operations, making it an essential library for scientific computing, data analysis, and machine learning applications.
